@@ -4,7 +4,7 @@ local ColourUtility = require("everforest.colour_utility")
 
 ---@enum Styles
 local styles = {
-  bold = "",
+  bold = "light",
   italic = "italic",
   reverse = "reverse",
   undercurl = "undercurl",
